@@ -1,0 +1,56 @@
+
+
+------------common------------
+
+Perfume of Bewitching, XGtE, Wondrous Item, No, 59 gp
+Pot of Awakening, XGtE, Wondrous Item, No, 29 gp
+Clothes of Mending, XGtE, Wondrous Item, No, 36 gp
+Candle of the Deep, XGtE, Wondrous Item, No, 67 gp
+Perfume of Bewitching, XGtE, Wondrous Item, No, 59 gp
+Clothes of Mending, XGtE, Wondrous Item, No, 36 gp
+Cloak of Many Fashions, XGtE, Wondrous Item, No, 27 gp
+Pole of Angling, XGtE, Wondrous Item, No, 37 gp
+Maximus's Broom of Sweeping, AotG, Wondrous Item, No, 52 gp
+
+
+------------uncommon------------
+
+Mariner's Armour, DMG, Armour(light,medium or heavy), No, 446 gp
+Gauntlets of Ogre Power, DMG, Wondrous Item, Yes, 574 gp
+Medallion of Thoughts, DMG, Wondrous Item, Yes, 186 gp
+Wand of the War Mage +1, DMG, Wand, Yes, 183 gp
+Circlet of Blasting, DMG, Wondrous Item, No, 100 gp
+Potion of Animal Friendship, DMG, Potion, No, 353 gp
+Pendant of the Unrelenting March, AotG, Wondrous Item, Yes, 171 gp
+Burglar's Dagger, AotG, Weapon(dagger), No, 581 gp
+Brava's Bustling Beetles, AotG, Wondrous Item, No, 240 gp
+Sword of Vengeance, DMG, Weapon(sword), Yes, 569 gp
+Wand of Secrets, DMG, Wand, No, 385 gp
+
+
+------------rare------------
+
+Brazier of Command Fire Elementals, DMG, Wondrous Item, No, 5659 gp
+Instrument of the Bard (Cli Lyre), DMG, Wondrous Item, Yes, 8784 gp
+Magic Magnifier, AotG, Wondrous Item, No, 4123 gp
+Shard of the Namestone, AotG, Wondrous Item, Yes, 8273 gp
+Bead of Force, DMG, Wondrous Item, No, 4818 gp
+
+
+------------very_rare------------
+
+Loun Stone (leadership), DMG, Wondrous Item, Yes, 21012 gp
+Runehammer, AotG, Weapon(warhammer), Yes, 49752 gp
+Olhydra's Tear, AotG, Weapon(sword), Yes, 30657 gp
+Shatterrain, AotG, Weapon(scimitar), Yes, 27389 gp
+
+
+------------legendary------------
+
+Loun Stone (mastery), DMG, Wondrous Item, Yes, 280133 gp
+Holy Avenger, DMG, Weapon(sword), Yes, 226889 gp
+
+
+------------orb------------
+
+Gold Orb of Dragonkind, DMG, Wondrous Item, Yes, 1000000 gp
