@@ -1,0 +1,56 @@
+
+
+------------common------------
+
+Clothes of Mending, XGtE, Wondrous Item, No, 46 gp
+Equinculus Potion, AotG, Potion, No, 34 gp
+Pot of Awakening, XGtE, Wondrous Item, No, 42 gp
+Dark Shard Amulet, XGtE, Wondrous Item, Yes, 38 gp
+Armour of Gleaming, XGtE, Armour(medium or Heavy), No, 23 gp
+Rope of Mending, XGtE, Wondrous Item, No, 44 gp
+Dark Shard Amulet, XGtE, Wondrous Item, Yes, 38 gp
+Tinsel's Prismatic Quill, AotG, Wondrous Item, No, 41 gp
+Armour of Questionable Taste, AotG, Armour (any), No, 53 gp
+
+
+------------uncommon------------
+
+Deck of Illusion, DMG, Wondrous Item, No, 369 gp
+Sword of Vengeance, DMG, Weapon(sword), Yes, 517 gp
+Instrument of the Bard (Doss Lute), DMG, Wondrous Item, Yes, 128 gp
+Periapt of Wound Closure, DMG, Wondrous Item, Yes, 577 gp
+Driftglobe, DMG, Wondrous Item, No, 523 gp
+Periapt of Health, DMG, Wondrous Item, No, 406 gp
+Helm of Apathy, AotG, Wondrous Item, Yes, 143 gp
+Staff of the Adder, DMG, Staff, Yes, 310 gp
+Potion of Water Breathing, DMG, Potion, No, 362 gp
+Guardwell's Alarming Caltrops, AotG, Wondrous Item, No, 100 gp
+Brava's Bustling Beetles, AotG, Wondrous Item, No, 137 gp
+
+
+------------rare------------
+
+Iron Bands of Bilarro, DMG, Wondrous Item, No, 3223 gp
+Glamoured Studded Leather, DMG, Armour(studded leather), No, 17895 gp
+Horn of Blasting, DMG, Wondrous Item, No, 17002 gp
+Longshot, AotG, Weapon(longbow), Yes, 16006 gp
+Figuring of Wondrous Power (Serpentine Owl), DMG, Wondrous Item, No, 3463 gp
+
+
+------------very_rare------------
+
+Serpent Stride Armour, AotG, Armour(medium), Yes, 47388 gp
+Armour +2, DMG, Armour(light, medium or heavy), No, 38711 gp
+Rod of the Pact Keeper +3, DMG, Rod, Yes, 20272 gp
+Flayer's Gauntlet, AotG, Wondrous Item, Yes, 25136 gp
+
+
+------------legendary------------
+
+Iron Flask, DMG, Wondrous Item, No, 63890 gp
+Holy Avenger, DMG, Weapon(sword), Yes, 221096 gp
+
+
+------------orb------------
+
+Gold Orb of Dragonkind, DMG, Wondrous Item, Yes, 1000000 gp

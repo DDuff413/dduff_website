@@ -1,0 +1,161 @@
+Barryat the Vicious, AotG, Wondrous Item, No
+Beans of Jumping, AotG, Wondrous Item, No
+Boots of the Wood Elves, AotG, Weapon(longbow), Yes
+Brava's Bustling Beetles, AotG, Wondrous Item, No
+Breath Mask, AotG, Wondrous Item, No
+Burglar's Dagger, AotG, Weapon(dagger), No
+Collar of Articulation, AotG, Wondrous Item, No
+Deathbane Berries, AotG, Wondrous Item, No
+Dragon's Blood, AotG, Wondrous Item, No
+Dragon's Remnant, AotG, Wondrous Item, Yes
+Earplugs of the Bulette, AotG, Wondrous Item, No
+Ejection Amulet, AotG, Wondrous Item, Yes
+Elemental Touched Mesh, AotG, Wondrous Item, No
+Emir's Ring, AotG, Ring, No
+Extend-o-Matic, AotG, Wondrous Item, No
+Floral Scented Brooch, AotG, Wondrous Item, Yes
+Forlorn Mantle, AotG, Wondrous Item, No
+Gloves of Dagger Throwing, AotG, Wondrous Item, No
+Gloves of Darkness, AotG, Wondrous Item, Yes
+Guardwell's Aggressive Caltrops, AotG, Wondrous Item, No
+Guardwell's Alarming Caltrops, AotG, Wondrous Item, No
+Guardwell's Entangling Caltrops, AotG, Wondrous Item, No
+Hands of the Crafter, AotG, Wondrous Item, No
+Hearthmead, AotG, Potion, No
+Hellfire Stone, AotG, Wondrous Item, Yes
+Hello World Shield, AotG, Armour(shield), Yes
+Hellrazor, AotG, Weapon(sword), Yes
+Helm of Apathy, AotG, Wondrous Item, Yes
+Humerus of St.hildegaard, AotG, Weapon(club), Yes
+Kildirn's Singing Stein, AotG, Wondrous Item, No
+Lantern of the Morning Lord, AotG, Wondrous Item, No
+Liewyrrian Blinders, AotG, Wondrous Item, Yes
+Logbow, AotG, Weapon(longbow), No
+Lot #184, AotG, Weapon(handaxe and hand crossbow), No
+Lonqui's Luck, AotG, Wondrous Item, No
+Manual: About the Clashing of Steel, Volumes I to XX, AotG, Wondrous Item, No
+Mask of Truth, AotG, Wondrous Item, No
+Message Mirror, AotG, Wondrous Item, No
+Minsc's Magnificent Miniature Menagerie, AotG, Wondrous Item, Yes
+Mummer's Lantern, AotG, Wondrous Item, No
+Necklace of Missals, AotG, Wondrous Item, No
+Necklace of Thirst, AotG, Wondrous Item, No
+Nullmagic Shield, AotG, Armour(shield), No
+Pendant of the Unrelenting March, AotG, Wondrous Item, Yes
+Psyforged Blade, AotG, Weapon(short or long sword), Yes
+Pylon of Blessed Power, AotG, Armour(medium), Yes
+Redbeard's Eyepatch, AotG, Wondrous Item, Yes
+Ring of Displeasure, AotG, Ring, No
+Ring of Moxie, AotG, Ring, Yes
+Ring of the Beast, AotG, Ring, Yes
+Ring of Tongues, AotG, Ring, No
+Ring of the Mighty Fist, AotG, Ring, No
+Rod of Fortune Seeking, AotG, Rod, Yes
+Seven Coin Purse, AotG, Wondrous Item, Yes
+Shard of Healing, AotG, Wondrous Item, No
+Shocking Glove, AotG, Wondrous Item, No
+Sky Piercer, AotG, Weapon(rapier), No
+Smash and Bright, AotG, Wondrous Item, No
+Spring Boots, AotG, Wondrous Item, No
+Swapping Shackles, AotG, Wondrous Item, Yes
+Sword of Corruption, AotG, Weapon(sword), Yes
+Sword of the Chameleon, AotG, Weapon(sword), No
+Tunning Fork, AotG, Wondrous Item, Yes
+Wand of Light, AotG, Wand, No
+Adamantine Armour, DMG, Armour(medium of heavy (not hide), No
+Alchemy Jug, DMG, Wondrous Item, No
+Ammunition +1, DMG, Weapon(any ammunition), No
+Amulet of Proof Against Detection and  Location, DMG,  Wondrous Item, Yes
+Bag of Holding, DMG, Wondrous Item, No
+Bag of Tricks, DMG, Wondrous Item, No
+Boots of Elvenkind, DMG, Wondrous Item, No
+Boots of Striding and Springing, DMG, Wondrous Item, Yes
+Boots of the Winterland, DMG, Wondrous Item, Yes
+Bracers of Archery, DMG, Wondrous Item, Yes
+Brooch of Shielding, DMG, Wondrous Item, Yes
+Broom of Flying, DMG, Wondrous Item, No
+Cap of Water Breathing, DMG, Wondrous Item, No
+Circlet of Blasting, DMG, Wondrous Item, No
+Cloak of Protection, DMG, Wondrous Item, Yes
+Cloak of the Manta Ray, DMG, Wondrous Item, No
+Decanter of Endless Water, DMG, Wondrous Item, No
+Deck of Illusion, DMG, Wondrous Item, No
+Driftglobe, DMG, Wondrous Item, No
+Dust of Disappearance, DMG, Wondrous Item, No
+Dust of Dryness, DMG, Wondrous Item, No
+Dust of Sneezing and Choking, DMG, Wondrous Item, No
+Elemental Gem (red), DMG, Wondrous Item, No
+Elemental Gem (blue), DMG, Wondrous Item, No
+Elemental Gem (yellow), DMG, Wondrous Item, No
+Elemental Gem (green), DMG, Wondrous Item, No
+Eversmoking Bottle, DMG, Wondrous Item, No
+Eyes of Charming, DMG, Wondrous Item, Yes
+Eyes of Minute Seeing, DMG, Wondrous Item, No
+Eyes of the Eagle, DMG, Wondrous Item, Yes
+Figure of Wondrous Power (Silver Raven), DMG, Wondrous Item, No
+Gauntlets of Ogre Power, DMG, Wondrous Item, Yes
+Gem of Brightness, DMG, Wondrous Item, No
+Gloves of Missile Snaring, DMG, Wondrous Item, Yes
+Gloves of Swimming and Climbing, DMG, Wondrous Item, Yes
+Gloves of Thievery, DMG, Wondrous Item, No
+Goggles of Night, DMG, Wondrous Item, No
+Hat of Disguise, DMG, Wondrous Item, Yes
+Headband of Intellect, DMG, Wondrous Item, Yes
+Helm of Comprehend Languages, DMG, Wondrous Item, No
+Helm of Telepathy, DMG, Wondrous Item, Yes
+Immovable Rod, DMG, Wondrous Item, No
+Instrument of the Bard (Doss Lute), DMG, Wondrous Item, Yes
+Instrument of the Bard (Fochlucan Bandore), DMG, Wondrous Item, Yes
+Instrument of the Bard (Mac-Fuirmidh Cittern), DMG, Wondrous Item, Yes
+Javelin of Lightning, DMG, Weapon(javelin), No
+Keoghtom's Ointment, DMG, Wondrous Item, No
+Lantern of Revealing, DMG, Wondrous Item, No
+Mariner's Armour, DMG, Armour(light,medium or heavy), No
+Medallion of Thoughts, DMG, Wondrous Item, Yes
+Mithral Armour, DMG, Armour(medium, heavy (not hide)), No
+Necklace of Adaption, DMG, Wondrous Item, Yes
+Oil of Slipperiness, DMG, Potion, No
+Pearl of Power, DMG, Wondrous Item, Yes
+Periapt of Health, DMG, Wondrous Item, No
+Periapt of Wound Closure, DMG, Wondrous Item, Yes
+Philter of Love, DMG, Potion, No
+Pipes of Haunting, DMG, Wondrous Item, No
+Pipes of the Sewers, DMG, Wondrous Item, Yes
+Potion of Animal Friendship, DMG, Potion, No
+Potion of Fire Breathing, DMG, Potion, No
+Potion of Giant Strength (hill), DMG, Potion, No
+Potion of Greater Healing, DMG, Potion, No
+Potion of Growth, DMG, Potion, No
+Potion of Poison, DMG, Potion, No
+Potion of Resistance, DMG, Potio, No
+Potion of Water Breathing, DMG, Potion, No
+Quiver of Ehlonna, DMG, Wondrous Item, No
+Ring of Jumping, DMG, Ring, No
+Ring of Mind Shielding, DMG, Ring, Yes
+Ring of Swimming, DMG, Ring, No
+Ring of Warmth, DMG, Ring, Yes
+Ring of Water Walking, DMG, Ring, No
+Robe of Useful Items, DMG, Wondrous Item, No
+Rod of the Pact Keeper +1, DMG, Rod, Yes
+Robe of Climbing, DMG, Wondrous Item, No
+Saddle of the Cavalier, DMG, Wondrous Item, No
+Sending Stones, DMG, Wondrous Item, No
+Sentinel Shield, DMG, Armour(shield), No
+Shield +1, DMG, Armour(shield), No
+Slippers of Spider Climbing, DMG, Wondrous Item, Yes
+Spell Scroll (lvl 2), DMG, Scroll, No
+Spell Scroll (lvl 3), DMG, Scroll, No
+Staff of the Adder, DMG, Staff, Yes
+Staff of the Python, DMG, Staff, Yes
+Stone of Good Luck (luckstone), DMG, Wondrous Item, Yes
+Sword of Vengeance, DMG, Weapon(sword), Yes
+Trident of Fish Command, DMG, Weapon(trident), Yes
+Wand of Magic Detection, DMG, Wand, No
+Wand of Magic Missile, DMG, Wand, No
+Wand of Secrets, DMG, Wand, No
+Wand of the War Mage +1, DMG, Wand, Yes
+Wand of Web, DMG, Wand, Yes
+Weapon +1, DMG, Weapon(any), No
+Weapon of Warning, DMG, Weapon(any), No
+Wind Wan, DMG, Wondrous Item, No
+Winged Boots, DMG, Wondrous Item, Yes
