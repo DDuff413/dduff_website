@@ -1,0 +1,10 @@
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\bin\Debug\Exp_Calculator.exe.config
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\bin\Debug\Exp_Calculator.exe
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\bin\Debug\Exp_Calculator.pdb
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\obj\Debug\Exp_Calculator.csprojAssemblyReference.cache
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\obj\Debug\Exp_Calculator.Form1.resources
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\obj\Debug\Exp_Calculator.Properties.Resources.resources
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\obj\Debug\Exp_Calculator.csproj.GenerateResource.cache
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\obj\Debug\Exp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\obj\Debug\Exp_Calculator.exe
+C:\Users\Abrac\OneDrive\Documents\codes\c#\Exp_Calculator\Exp_Calculator\obj\Debug\Exp_Calculator.pdb
